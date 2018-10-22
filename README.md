@@ -15,4 +15,4 @@ Install missing dependencies using pip
 
 Once you have your dependencies installed via pip, run the script in terminal via
 
-python sentiment_analyzer.py.py
+  python sentiment_analyzer.py
