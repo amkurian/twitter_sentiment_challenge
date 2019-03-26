@@ -13,7 +13,7 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-public_tweets = api.search('elissa slotkin')
+public_tweets = api.search('Penguins')
 
 for tweet in public_tweets:
 	print(tweet.text)
